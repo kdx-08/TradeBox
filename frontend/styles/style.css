@@ -1,0 +1,41 @@
+* {
+  font-family: Montserrat, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70vw;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav .brand {
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#product-list {
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 300px;
+}
+.item img {
+  height: 200px;
+}
