@@ -16,6 +16,14 @@ A simple backend application built with Express.js and MongoDB, designed for man
 - **Express.js:** Web application framework for Node.js.
 - **MongoDB Atlas:** Cloud-based MongoDB hosting
 
+## ✨ Example Search Results
+
+![Home Page](/img/home.png)
+
+![Add new item](/img/add.png)
+
+![Edit item](/img/edit.png)
+
 ## 🛠️ Installation
 
 1.  **Clone the repository:**
